@@ -1,0 +1,17 @@
+.pdp{
+	width: 200px;
+}
+.journal{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+	border: solid black 1px;
+}
+.journalPublication{
+	width: 50%;
+	height: 400px;
+	margin: 10px 0px;
+	border: solid black 1px;
+
+}
